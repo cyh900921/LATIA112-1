@@ -4,10 +4,15 @@
 姓名：朱育萱  
 系級：電機工程學系113級  
 # 目錄  
-* [**課程筆記區**](https://github.com/cyh900921/LATIA112-1/edit/main/README.md#課程筆記區)
-  * [作業一](https://github.com/cyh900921/LATIA112-1/edit/main/README.md#作業一)  
-  * [作業二](https://github.com/cyh900921/LATIA112-1/edit/main/README.md#作業二)
-  * [作業三](https://github.com/cyh900921/LATIA112-1/edit/main/README.md#作業三)
-* [**專題連結區**](https://github.com/cyh900921/LATIA112-1/edit/main/README.md#專題連結區)
+* [**課程筆記區**](https://github.com/cyh900921/LATIA112-1#課程筆記區)  
+* [**作業連結區**](https://github.com/cyh900921/LATIA112-1#作業連結區)  
+  * [作業一](https://github.com/cyh900921/LATIA112-1#作業一)  
+  * [作業二](https://github.com/cyh900921/LATIA112-1#作業二)
+  * [作業三](https://github.com/cyh900921/LATIA112-1#作業三)
+* [**專題連結區**](https://github.com/cyh900921/LATIA112-1#專題連結區)
 # 課程筆記區
-# 作業連結區
+# 作業連結區  
+# 作業一  
+# 作業二  
+# 作業三  
+# 專題連結區  
