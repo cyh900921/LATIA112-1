@@ -21,5 +21,5 @@
   * [HW3](https://github.com/cyh900921/LATIA112-1/tree/main/hw3)
 # 作業四
   * [網頁](https://cyh900921.github.io/hw4/)
-  * [HW4](https://github.com/cyh900921/LATIA112-1/tree/main/hw3)
+  * [HW4](https://github.com/cyh900921/LATIA112-1/tree/main/hw4)
 # 專題連結區  
