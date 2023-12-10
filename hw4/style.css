@@ -1,0 +1,13 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#mygraph-line, #mygraph-bar, #mygraph-pie, #myGraph-nobel-pie {
+    width: 50%;
+    height: 400px;
+    display: inline-block;
+    margin: 20px;
+}
