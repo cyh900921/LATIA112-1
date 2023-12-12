@@ -1,0 +1,16 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#data-description p {
+    white-space: pre-line;
+}
+
+#myGraph, #myGraph-bar, #myGraph-nobel-pie {
+    width: 50%;
+    height: 400px;
+    display: inline-block;
+    margin: 20px;
+}

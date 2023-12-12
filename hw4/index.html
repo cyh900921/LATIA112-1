@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global IQ Visualization</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="data-description">
+    <p>這是我在 Kaggle 當中所找到的全球 IQ 值。<br>
+    在這個網站當中包含了193個國家的平均 IQ 值、屬於哪個洲、識字率、曾經獲得的諾貝爾奬的次數、人類發展指數、平均受教育年資、國民總收入和人口數，我將平均 IQ 值、屬於哪個洲和曾經貨的諾貝爾獎的次數取出來，做了以下三個不同的圖表來顯示，分別是折線圖、長條圖、圓餅圖。<br>
+    網址：<a href="https://www.kaggle.com/datasets/mlippo/average-global-iq-per-country-with-other-stats" target="_blank">https://www.kaggle.com/datasets/mlippo/average-global-iq-per-country-with-other-stats</a></p>
+</div>
+
+<div id="myGraph"></div>
+<div id="myGraph-bar"></div>
+<div id="myGraph-nobel-pie"></div>
+<script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+<script src="data.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
